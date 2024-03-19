@@ -1,0 +1,7 @@
+
+.app {
+    background-image: url('./bg.jpg');
+    background-size: cover; /* Adjust the image size to cover the entire container */
+    /* You can add more background properties like background-position, background-repeat, etc. as needed */
+  }
+  
